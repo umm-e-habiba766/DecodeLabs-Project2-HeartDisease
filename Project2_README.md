@@ -270,14 +270,3 @@ This project is built **for educational and training purposes only**. The predic
 
 ---
 
-## 🏢 About DecodeLabs
-
-**DecodeLabs** is an industrial training platform empowering the next generation of AI engineers through hands-on project-based learning.
-
-📞 +91 89330 06408 | ✉ decodelabs.tech@gmail.com | 🌐 www.decodelabs.tech
-
----
-
-<div align="center">
-<sub>DecodeLabs Industrial Training Kit | Batch 2026 | Project 2 of 5</sub>
-</div>
