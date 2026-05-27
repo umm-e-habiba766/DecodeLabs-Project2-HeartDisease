@@ -27,7 +27,6 @@ Build a complete supervised learning pipeline that:
 DecodeLabs-Project2-HeartDisease-KNN/
 │
 ├── heart_disease_classification.py   ← Main script (full pipeline + chatbot)
-├── heart.csv                         ← Cleveland UCI dataset (303 records)
 ├── requirements.txt                  ← Required Python packages
 └── README.md                         ← Project documentation (this file)
 ```
@@ -251,18 +250,6 @@ pip install -r requirements.txt
 
 ---
 
-## 👤 Author
-
-| Field        | Detail                                          |
-|--------------|-------------------------------------------------|
-| Name         | *[Your Full Name]*                              |
-| Batch        | DecodeLabs 2026                                 |
-| Track        | Artificial Intelligence                         |
-| Project      | 2 — Data Classification Using AI               |
-| Algorithm    | Random Forest + Clinical Rules Engine           |
-| Submitted    | *[Submission Date]*                             |
-
----
 
 ## ⚠️ Medical Disclaimer
 
