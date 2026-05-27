@@ -154,10 +154,10 @@ pip
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/umm-e-habiba766/DecodeLabs-Project2-HeartDisease-KNN.git
+git clone https://github.com/umm-e-habiba766/DecodeLabs-Project2-HeartDisease.git
 
 # Navigate into the folder
-cd DecodeLabs-Project2-HeartDisease-KNN
+cd DecodeLabs-Project2-HeartDisease
 
 # Install dependencies
 pip install -r requirements.txt
